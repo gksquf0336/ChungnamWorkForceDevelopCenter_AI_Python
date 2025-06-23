@@ -14,7 +14,17 @@ AI 자율주행을 위한 코딩
 ## 1. 소개
 * 강의 교수진 소개
   - 장성숙 교수님
+    - 실버 강사
     - [참고 영상 자료](https://www.youtube.com/watch?v=ess9hN9yznc)
+      NVIDIA에서 세계 여성의 날 게시한 자료 영상
+      
+* 사용 소프트웨어
+  - [구글 코랩](https://colab.google/)
+    코딩 및 강의 수업 진행용
+  - [깃허브](https://github.com/)
+    강의 진행사항 업로드 및 정리용
+  - [w3schools](https://www.w3schools.com/)
+    파이썬 기초 튜토리얼 및 향상용
 
 ***
 ## 2. 강의 계획
