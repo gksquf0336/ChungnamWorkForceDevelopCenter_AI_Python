@@ -27,6 +27,7 @@ AI 자율주행을 위한 코딩
     - 강의 진행사항 업로드 및 정리용
   - [w3schools](https://www.w3schools.com/)
     - 파이썬 기초 튜토리얼 및 향상용
+  - [챗GPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_APAC_SouthKorea_Consumer_CPA_BAU_Mix_Korean-HighRisk&utm_term=%EC%B1%97gpt&gad_source=1&gad_campaignid=21990694068&gbraid=0AAAAA-IW-UUgbVkb6k27jFFwqLDIdZytI&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxfZGKv7quCuI1NADI2ZtcKqpVG9-xJWBoFtMYP391MfyTBUCqYgUUsaApFsEALw_wcB) 
 
 ***
 ## 2. 강의 계획
