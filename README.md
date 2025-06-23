@@ -1,0 +1,1 @@
+# ChungnamWorkForceDevelopCenter_AI_Python
