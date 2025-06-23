@@ -18,25 +18,18 @@
   - 2단계
     + 3단계
 
-<span style="background-color:#fff5b1"> 노란형광펜 </span>
-<span style="background-color:#FFE6E6"> 빨강형광펜 </span>
-<span style="background-color:#E6E6FA"> 보라형광펜 </span>
-<span style="background-color:#C0FFFF"> 파랑형광펜 </span>
-<span style="background-color:#FFFFF0"> 노란형광펜 </span>
-<span style="background-color:#F5F5F5"> 회색형광펜 </span>
-<span style="background-color:#DCFFE4"> 초록형광펜 </span>
+<span style="color: tomato">빨강</span>
+<span style="color: #ffd33d">노랑</span>
+<span style="color: green">초록</span>
+<span style="color: blue">파랑</span>
+<span style="color: gray">회색</span>
 
-<span style="color:FF0000"> 글씨색 변경 </span> ㅠ
-<span style="color:yellow"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:blue"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:brown"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:orange"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:green"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:violet"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:yellowgreen"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:blueviolet"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:gray"> 글씨색 변경 </span> ㅠㅠ
-<span style="color:indigo"> 글씨색 변경 </span> ㅠㅠ
+<span style='background-color:#ffdce0'>빨강형광펜</span>
+<span style='background-color:#f7ddbe'>주황형광펜</span>
+<span style='background-color:#fff5b1'>노랑형광펜</span>
+<span style='background-color:#dcffe4'>초록형광펜</span>
+<span style='background-color:#D0E4FC'>파랑형광펜</span>
+<span style='background-color:#f5f0ff'>보라형광펜</span>
 
 ```md
 | 이름 | 나이 | 직업     |
