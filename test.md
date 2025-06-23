@@ -16,8 +16,11 @@ AI 자율주행을 위한 코딩
 <img src="https://github.com/user-attachments/assets/368d65fb-f329-4990-b254-81c134f533f7" width="150" height="150"/>
 <br>
   - 장성숙 교수님
+    <br>
     - 실버 강사
+    <br>
     - [참고 영상 자료](https://www.youtube.com/watch?v=ess9hN9yznc)
+      <br>
       - NVIDIA에서 세계 여성의 날 게시한 자료 영상
       
 * 사용 소프트웨어
