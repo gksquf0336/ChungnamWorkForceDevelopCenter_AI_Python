@@ -5,7 +5,7 @@ AI 자율주행을 위한 코딩
 ***
 ## 목차
 1. [소개](https://github.com/gksquf0336/ChungnamWorkForceDevelopCenter_AI_Python/blob/main/test.md#1-%EC%86%8C%EA%B0%9C)
-2. 강의 계획
+2. [강의 계획](https://github.com/gksquf0336/ChungnamWorkForceDevelopCenter_AI_Python/blob/main/test.md#2-%EA%B0%95%EC%9D%98-%EA%B3%84%ED%9A%8D)
 3. 사전 조사
 4. 강의 내용
 5. 종합
