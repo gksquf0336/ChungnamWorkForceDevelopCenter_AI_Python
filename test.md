@@ -26,7 +26,9 @@ _italic_
 *italic*
 ~~cancleLine~~
 
-출처: https://myvelop.tistory.com/136 [MYVELOP 마이벨롭:티스토리]
+<span style="color:blue">글자파란색</span>
+<span style="background-color: #f6f8fa">회색형광펜</span>
+
 
 ```md
 | 이름 | 나이 | 직업     |
