@@ -29,33 +29,9 @@ AI 자율주행을 위한 코딩
     - 강의 진행사항 업로드 및 정리용
   - [w3schools](https://www.w3schools.com/)
     - 파이썬 기초 튜토리얼 및 향상용
-  - [챗GPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_APAC_SouthKorea_Consumer_CPA_BAU_Mix_Korean-HighRisk&utm_term=%EC%B1%97gpt&gad_source=1&gad_campaignid=21990694068&gbraid=0AAAAA-IW-UUgbVkb6k27jFFwqLDIdZytI&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxfZGKv7quCuI1NADI2ZtcKqpVG9-xJWBoFtMYP391MfyTBUCqYgUUsaApFsEALw_wcB) 
-
-***
-## 2. 강의 계획
-* 6/23/월
-  - 강사 소개 및 구성원 소개, 수준 확인 설문조사 답변 생성 AI 활용
-  - 개발환경 설정(github, 구글 코랩, nvidia 계정)
-  - 포트폴리오 작성하기 위해 깃허브 마크다운 작성법 익히기
-* 6/24/화
-  - AI 맛보기
-  - AI 개념 및 자율주행 기술의 발전, 자율주행 기반의 AI 개념 조사 후 발표
-  - 각 1명씩 발표(5분) - 발표자 점수 100점 만점
-
-***
-## 3. 참고 자료
-* 6/23/월 - 마크다운 작성법 진행
-  - [마크다운 참조 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-   + 매 시간마다 정리하면서 따로 연습할 것!!!
-* 파이썬
-  - 개념
-    + 인기 있는 프로그래밍 언어
-    + 귀도 반 로섬이 개발하여 1991년에 출시
-    + 용도
-      + 웹 개발(서버 측)
-      + 소프트웨어 개발
-      + 수학
-      + 시스템 스크립팅
+  - [챗GPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_APAC_SouthKorea_Consumer_CPA_BAU_Mix_Korean-HighRisk&utm_term=%EC%B1%97gpt&gad_source=1&gad_campaignid=21990694068&gbraid=0AAAAA-IW-UUgbVkb6k27jFFwqLDIdZytI&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxfZGKv7quC점
+    + 다양한 플랫폼(Windows, Mac, Linux, Raspberry Pi 등)에서 작동
+    + 영어와 비슷한 간단한 구문
 
 **추후 강의 진행에 따라서 추가할 예정**
 
