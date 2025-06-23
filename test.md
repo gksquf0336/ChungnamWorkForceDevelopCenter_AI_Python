@@ -26,9 +26,9 @@ _italic_
 *italic*
 ~~cancleLine~~
 
-<span style="color:blue">글자파란색</span>
-<span style="background-color: #f6f8fa">회색형광펜</span>
-
+<hr/>  # 수평선
+<br/>  # 줄바꿈
+&nbsp; # 띄어쓰기(여러번 가능)
 
 ```md
 | 이름 | 나이 | 직업     |
