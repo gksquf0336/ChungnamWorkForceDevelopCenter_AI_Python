@@ -26,17 +26,17 @@
 <span style="background-color:#F5F5F5"> 회색형광펜 </span>
 <span style="background-color:#DCFFE4"> 초록형광펜 </span>
 
-<span style="color:red"> 글씨색 변경 </span>
-<span style="color:yellow"> 글씨색 변경 </span>
-<span style="color:blue"> 글씨색 변경 </span>
-<span style="color:brown"> 글씨색 변경 </span>
-<span style="color:orange"> 글씨색 변경 </span>
-<span style="color:green"> 글씨색 변경 </span>
-<span style="color:violet"> 글씨색 변경 </span>
-<span style="color:yellowgreen"> 글씨색 변경 </span>
-<span style="color:blueviolet"> 글씨색 변경 </span>
-<span style="color:gray"> 글씨색 변경 </span>
-<span style="color:indigo"> 글씨색 변경 </span>
+<span style="color:FF0000"> 글씨색 변경 </span> ㅠ
+<span style="color:yellow"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:blue"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:brown"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:orange"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:green"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:violet"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:yellowgreen"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:blueviolet"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:gray"> 글씨색 변경 </span> ㅠㅠ
+<span style="color:indigo"> 글씨색 변경 </span> ㅠㅠ
 
 ```md
 | 이름 | 나이 | 직업     |
