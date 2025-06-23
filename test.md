@@ -16,6 +16,18 @@
   - 2단계
     + 3단계
 
+1. 1번
+  2. 2번
+    3. 3번
+
+__bold__
+**bold**
+_italic_
+*italic*
+~~cancleLine~~
+
+출처: https://myvelop.tistory.com/136 [MYVELOP 마이벨롭:티스토리]
+
 ```md
 | 이름 | 나이 | 직업     |
 |------|------|---------|
