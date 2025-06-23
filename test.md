@@ -18,7 +18,7 @@
   - 2단계
     + 3단계
 
-<span style="background-color:#fff5b1"> 노란형광펜 </span>
+==<span style="background-color:#fff5b1"> 노란형광펜 </span>==
 <span style="background-color:#FFE6E6"> 빨강형광펜 </span>
 <span style="background-color:#E6E6FA"> 보라형광펜 </span>
 <span style="background-color:#C0FFFF"> 파랑형광펜 </span>
