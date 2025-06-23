@@ -1,4 +1,4 @@
-**마크다운 꾸미기**
+마크다운 꾸미기
 
 [마크다운 참조 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
