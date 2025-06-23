@@ -29,8 +29,9 @@ AI 자율주행을 위한 코딩
     - 강의 진행사항 업로드 및 정리용
   - [w3schools](https://www.w3schools.com/)
     - 파이썬 기초 튜토리얼 및 향상용
-  - [챗GPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_APAC_SouthKorea_Consumer_CPA_BAU_Mix_Korean-HighRisk&utm_term=%EC%B1%97gpt&gad_source=1&gad_campaignid=21990694068&gbraid=0AAAAA-IW-UUgbVkb6k27jFFwqLDIdZytI&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxfZGKv7quC점
-
+  - [챗GPT](https://chatgpt.com/)
+<br>
+<br>
 ***
 ## 2. 강의 계획
 ###### 6/23/월
@@ -46,6 +47,7 @@ AI 자율주행을 위한 코딩
 ## 3. 참고 자료
 * 마크다운 진행 관련 자료
    - [마크다운 참조 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+     <br>
 * 파이썬(Python)
   - 개념 및 정보
     + 인기 있는 프로그래밍 언어
@@ -61,9 +63,11 @@ AI 자율주행을 위한 코딩
       + 영어와 비슷한 간단한 구문
       + 개발자가 다른 프로그래밍 언어보다 줄 수가 적은 프로그램을 작성할 수 있는 구문
       + 절차적 방식, 객체 지향적 방식 또는 함수적 방식으로 처리
-
+<br>
+<br>
 **추후 강의 진행에 따라서 추가할 예정**
-
+<br>
+<br>
 ***
 ## 4. 강의 내용
 ###### 6/23/월
