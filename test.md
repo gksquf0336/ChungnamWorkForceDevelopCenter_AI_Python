@@ -30,8 +30,37 @@ AI 자율주행을 위한 코딩
   - [w3schools](https://www.w3schools.com/)
     - 파이썬 기초 튜토리얼 및 향상용
   - [챗GPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_APAC_SouthKorea_Consumer_CPA_BAU_Mix_Korean-HighRisk&utm_term=%EC%B1%97gpt&gad_source=1&gad_campaignid=21990694068&gbraid=0AAAAA-IW-UUgbVkb6k27jFFwqLDIdZytI&gclid=Cj0KCQjw097CBhDIARIsAJ3-nxfZGKv7quC점
-    + 다양한 플랫폼(Windows, Mac, Linux, Raspberry Pi 등)에서 작동
-    + 영어와 비슷한 간단한 구문
+
+***
+## 2. 강의 계획
+###### 6/23/월
+  - 강사 소개 및 구성원 소개, 수준 확인 설문조사 답변 생성 AI 활용
+  - 개발 환경 설정
+  - 포트폴리오 작성을 위해 깃허브 작성법(마크다운 사용법 익히기)
+###### 6/24/화
+  - AI 맛보기
+  - AI 개념, 자율주행 기술의 발전, 자율주행 기반의 AI 개념 조사 후 발표
+    + 각 1명씩 발표(5분) - 발표자 점수 100점 만점
+ 
+***
+## 3. 참고 자료
+* 마크다운 진행 관련 자료
+   - [마크다운 참조 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* 파이썬(Python)
+  - 개념 및 정보
+    + 인기 있는 프로그래밍 언어
+    + 귀도 반 로섬이 개발하여 1991년에 출시
+    + 용도
+      + 웹 개발(서버 측), 웹 애플리케이션
+      + 빠른 프로토타입 제작이나 생산에 바로 투입 가능한 소프트웨어 개발
+      + 수학, 빅데이터를 처리하고 복잡한 수학 연산을 수행하는 데 사용
+      + 시스템 스크립팅
+      + 데이터베이스 시스템에 연결, 파일을 읽고 수정
+  - 장점
+      + 다양한 플랫폼(Windows, Mac, Linux, Raspberry Pi 등)에서 작동
+      + 영어와 비슷한 간단한 구문
+      + 개발자가 다른 프로그래밍 언어보다 줄 수가 적은 프로그램을 작성할 수 있는 구문
+      + 절차적 방식, 객체 지향적 방식 또는 함수적 방식으로 처리
 
 **추후 강의 진행에 따라서 추가할 예정**
 
